@@ -47,7 +47,9 @@
 </p>
 
 
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=36BCF7&section=footer" />
+</p>
 
 
 
