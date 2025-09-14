@@ -46,8 +46,9 @@
   </a>
 </p>
 
+<!-- Pink Wave Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4,ff1493,ffc0cb&height=120&section=footer&fontColor=ffffff&background=ffffff00"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4,ff1493,ffc0cb&height=120&section=footer&fontColor=ffffff&background=ffffff00" />
 </p>
 
 
