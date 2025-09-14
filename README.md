@@ -46,24 +46,11 @@
   </a>
 </p>
 
-<!-- Pink Wave Footer -->
-<div align="center" style="margin-top: 20px;">
-  <svg viewBox="0 0 1200 100" preserveAspectRatio="none" style="width: 100%; height: 100px;">
-    <path d="M0,50 C300,150 900,-50 1200,50 L1200,100 L0,100 Z" fill="#ff69b4">
-      <animate 
-        attributeName="d" 
-        dur="6s" 
-        repeatCount="indefinite" 
-        values="
-          M0,50 C300,150 900,-50 1200,50 L1200,100 L0,100 Z;
-          M0,60 C300,0 900,100 1200,60 L1200,100 L0,100 Z;
-          M0,50 C300,150 900,-50 1200,50 L1200,100 L0,100 Z
-        " 
-      />
-    </path>
-  </svg>
-  <p style="color: #ff69b4; font-weight: bold;">Thanks for visiting my profile!</p>
-</div>
+<!-- Pink Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4,ff1493,ffc0cb&height=120&section=footer&background=transparent"/>
+</p>
+
 
 
 
