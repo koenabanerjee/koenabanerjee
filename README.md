@@ -24,7 +24,7 @@
 
 ---
 
-### 📊 GitHub Stats 
+###  GitHub Stats 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KoenaBanerjee&show_icons=true&bg_color=000000&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF" />
   <br/> </br>
@@ -35,7 +35,7 @@
 
 ---
 
-### 🎀 Fun Add-ons
+###  Fun Add-ons
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KoenaBanerjee&color=F75C7E" alt="Profile views" />
 </p>
