@@ -28,8 +28,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KoenaBanerjee&show_icons=true&bg_color=000000&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF" />
   <br/> </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KoenaBanerjee&theme=black-ice&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" />
-  <br/> </br>
+ <p align="center">
+  <img src="https://streak-stats.demolab.com?user=KoenaBanerjee&theme=black-ice&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" />
+</p>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoenaBanerjee&layout=compact&bg_color=000000&title_color=F75C7E&text_color=FFFFFF" />
 </p>
 
